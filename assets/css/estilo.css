@@ -1,0 +1,150 @@
+/*pagina de conteudos */
+
+.conteudo-al{
+  width: 100%;
+  margin-left: 1.5%;
+}
+
+h1.conteudo-titulo {
+  font-size: 3.4rem;
+}
+
+.demo-ribbon {
+  width: 100%;
+  height: 40%;
+  background-color: rgb(3, 169, 244);
+  /*background-color: rgb(55, 168, 78); /*verde claro*/
+  /*background-color: rgb(3, 169, 244);*/ /*roxo claro*/
+  /*background-color: rgb(252, 83, 83); /*vermelho claro*/
+  /*background-color: rgb(96, 125, 139);  /*cinza claro*/
+  /*background-color: rgb(3, 169, 244); /*azul claro*/  
+}
+
+.demo-main {
+  margin-top: 15%;
+  flex-shrink: 0;
+}
+
+.demo-header .mdl-layout__header-row {
+  padding-left: 30px;
+}
+
+.demo-container {
+  max-width: 1600px;
+  width: calc(100% - 16px);
+  margin: 0 auto;
+}
+
+.demo-content {
+  border-radius: 4px;
+  padding: 5% 5%;
+  margin-bottom: 1%;
+}
+
+.demo-layout.is-small-screen .demo-content {
+  padding: 40px 28px;
+}
+
+.demo-content h2 {
+  margin-top: 1.5%;
+  font-size: 2.5rem;
+}
+
+p {
+  text-indent: 2.5em;
+  font-size: 1rem; /*12px */
+  text-align: justify;
+}
+
+#bt {
+  text-decoration: none;
+  color: black;
+}
+
+.conteudo-al{
+  width: 100%;
+  margin-left: 1.5%;
+}
+
+h1.conteudo-titulo {
+  font-size: 3.4rem;
+}
+/*pagina de conteudos */
+
+/*paginas index e home */
+.conteudo-index {
+  width: 100%;
+  margin-left: 2.7%;
+}
+
+  /*cards*/
+.col {
+  margin-top: 1%;
+  margin-left: 1.5%;
+  width: 21vw;
+  height: 35vh;
+}
+
+.mdl-card {
+  width: inherit;
+  height: inherit;
+}
+
+.nome {
+  padding-top: 11vh;
+  background-color: rgb(3, 169, 244);
+  color: white;
+}
+
+.texto {
+  overflow: unset;
+  padding-top: 25px;
+  
+}
+.mdl-card__actions {
+  margin-top: 1vh;
+}
+  /*cards*/
+
+#sair{
+  text-decoration: none;
+  color: white;
+}
+/*paginas index e home */
+
+/*formularios*/
+.btfor {
+  margin-top: 10%;
+  margin-left: 70%;
+  margin-bottom: 10%;
+}
+
+.formulario {
+  margin-left: -3%;
+  border: 2px solid #3f51b5;
+  padding: 6%;
+}
+
+.btMatr {
+  margin-top: 10%;
+  margin-left: 50%;
+  margin-bottom: 10%;
+}
+
+.select {
+  text-transform: none;
+  padding: 3%;
+  background-color: white;
+  color: black;
+  padding-right: 10%;
+}
+
+input {
+  padding: 4px;
+  margin-top: 7%;
+}
+/*formularios*/
+
+
+
+
